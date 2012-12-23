@@ -3,7 +3,7 @@ require File.expand_path('../lib/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name = 'zero-fix18'
-  s.version = VERSION.dup
+  s.version = ZeroFix18::VERSION.dup
 
   s.authors  = ['Gibheer', 'Stormwind']
   s.email    = 'gibheer@gmail.com'
